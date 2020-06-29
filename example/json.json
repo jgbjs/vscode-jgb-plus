@@ -1,0 +1,10 @@
+{
+  // @if wx
+  "test": 1,
+  "deep": {
+    // @if swan
+    "dep1": 2
+    // @endif
+  }
+  // @endif
+}
