@@ -6,6 +6,16 @@
 	"engines": {
 		"vscode": "^1.35.0"
 	},
+	"publisher": "landn172",
+	"author": {
+		"name": "landn172",
+		"email": "landn172@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jgbjs/vscode-jgb-plus.git"
+	},
+	"homepage": "https://github.com/jgbjs/vscode-jgb-plus/blob/master/README.md",
 	"main": "./out/extension.js",
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
